@@ -1,8 +1,9 @@
-# React + Vite
+# Trello Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Trello clone project using Axios and Json server 
 
-Currently, two official plugins are available:
+# Live 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://trello-clone-projects.vercel.app/
+
+![image](https://github.com/bltMustafa/Trello-clone-projects/assets/92399033/8e60bf9e-e4bf-4f13-b7a3-aeaca0f52afc) 
