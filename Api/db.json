@@ -1,0 +1,51 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Sunum ve Notlar Hazırlama",
+      "content": "Yarınki iş toplantısında sunum için gerekli materyalleri toplamak ve notları hazırlamak. "
+    },
+    {
+      "id": 2,
+      "title": "Reklam Kampanyası Stratejileri",
+      "content": "Reklam kampanyasının performansını izleyerek verimliliği artırmak için yeni stratejiler belirlemek."
+    },
+    {
+      "id": 3,
+      "title": "Stratejik İşbirliği Toplantısı",
+      "content": "Proje ekibiyle işbirliği yaparak yeni özellikler için toplantı düzenlemek ve kararlar almak."
+    },
+    {
+      "id": 4,
+      "title": "Müşteri Görüşmeleri ve Teklifler",
+      "content": "Yeni müşteri görüşmelerini takip etmek, ihtiyaçları belirlemek ve teklifler sunmak."
+    },
+    {
+      "id": 5,
+      "title": "İş Süreçleri Analizi ve İyileştirme",
+      "content": "İş süreçlerini analiz ederek verimliliği artırmak için iyileştirmeler ve otomasyonlar sağlamak."
+    },
+    {
+      "id": 6,
+      "title": "Tasarım ve Kullanıcı Deneyimi İyileştirmesi",
+      "content": "Kullanıcı araştırmaları yaparak, kullanıcıların ihtiyaçlarına uygun tasarım önerileri oluşturmak."
+    }, 
+    {
+      "id" : 7,
+      "title" : "Bütçe ve Maliyet Yönetimi", 
+      "content" : "Proje için bütçeyi ve kaynakları yönetmek, maliyetleri izlemek ve bütçe raporları hazırlamak."
+    }, 
+    {
+      "id" : 8, 
+      "title" : "Ekip Planlaması ve Sorumluluklar", 
+      "content" : "Projedeki tüm ekip üyeleriyle iş planlaması yapmak ve rolleri ve sorumlulukları belirlemek."
+    },
+     {
+      "id" : 9, 
+      "title" : "Proje Raporlama ve Başarı Kriterleri", 
+      "content" : "Projenin başarı kriterlerine ulaşmak için eylem planları oluşturmak ve takip etmek."
+    }
+  
+
+  ]
+}
